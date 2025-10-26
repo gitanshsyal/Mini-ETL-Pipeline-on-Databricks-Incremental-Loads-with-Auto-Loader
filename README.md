@@ -70,4 +70,3 @@ Raw (Bronze) → Validation (Silver) → Transformation (Silver) → Aggregation
 - Azure Data Factory (for lookup table loading)
 
 
-🐙 GitHub: [Your GitHub URL]
